@@ -12,8 +12,7 @@ Following libraries should be installed to un the test script.</br>
 # Execution
 
 The test script should be run using following pytest command. </br>
-_**pytest -v -s --html=C:\Users\KDesai\Documents\Imagecompare\Results\report_testcompare.html .\test_Image_Compare.py**
-_
+**pytest -v -s --html=C:\Users\KDesai\Documents\Imagecompare\Results\report_testcompare.html .\test_Image_Compare.py**
 
 # Results
 

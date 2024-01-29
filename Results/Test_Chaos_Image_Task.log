@@ -1,0 +1,10 @@
+2024-01-29 14:39:53,401 - INFO - test_image_import_export: started
+2024-01-29 14:39:57,710 - INFO - test_compare_images: started
+2024-01-29 14:39:57,763 - INFO - test_compare_images: The provided images are same
+2024-01-29 14:39:57,763 - INFO - test_compare_images: done
+2024-01-29 14:39:57,769 - INFO - test_image_import_export: done
+2024-01-29 14:39:57,771 - INFO - test_compare_images: started
+2024-01-29 14:39:58,577 - ERROR - test_compare_images: The provided images are different
+2024-01-29 14:39:58,679 - INFO - test_verify_exported_image: started
+2024-01-29 14:39:58,679 - INFO - test_verify_exported_image: The file at C:\Users\KDesai\Documents\Imagecompare\Images\IMAGE_EXPORT.jpg exists
+2024-01-29 14:39:58,689 - INFO - test_verify_exported_image: done

@@ -2,7 +2,7 @@
 This task contains test script for open and image and compare with another image
 
 # Prerequisite
-Following libraries should be installed to un the test script.</br>
+Following libraries should be installed to run the test script.</br>
 1. PIL </br>
 2. pytest </br>
 3. pytest-html </br>
